@@ -43,7 +43,7 @@
 
 ---
 
-## 📁 專案目錄結構 (Repository Layout)
+##  專案目錄結構 (Repository Layout)
 
 ```text
 MIPS-Processor-Design/
