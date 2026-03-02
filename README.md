@@ -1,10 +1,10 @@
-# 🖥️ MIPS32 Processor Design & Architecture
+#  MIPS32 Processor Design & Architecture
 
 > 本專案收錄了「計算機組織 (Computer Organization)」課程的完整處理器開發與硬體設計實作。
 
 本系列專案帶領我們從最上層的 MIPS 組合語言出發，一路向下深潛至硬體底層，最終使用 Verilog HDL 從零開始打造出一顆具備**5-Stage Pipeline**、**Data Forwarding** 以及**Hazard Detection** 完整機制的 MIPS32 架構處理器。
 
-## 🛠️ 開發與驗證環境
+##  開發與驗證環境
 
 * **硬體描述語言 (HDL):** Verilog
 * **指令集架構 (ISA):** MIPS32
