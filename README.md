@@ -1,4 +1,4 @@
-#  MIPS32 Processor Design & Architecture
+#  Computer-Organization
 
 
 本系列專案帶領我們從最上層的 MIPS 組合語言出發，一路向下深潛至硬體底層，最終使用 Verilog HDL 從零開始打造出一顆具備**5-Stage Pipeline**、**Data Forwarding** 以及**Hazard Detection** 完整機制的 MIPS32 架構處理器。
